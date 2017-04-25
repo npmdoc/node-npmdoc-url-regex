@@ -1,4 +1,7 @@
-# api documentation for  [url-regex (v4.0.0)](https://github.com/kevva/url-regex#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-url-regex.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-url-regex) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-url-regex.svg)](https://travis-ci.org/npmdoc/node-npmdoc-url-regex)
+# npmdoc-url-regex
+
+#### basic api documentation for  [url-regex (v4.0.0)](https://github.com/kevva/url-regex#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-url-regex.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-url-regex) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-url-regex.svg)](https://travis-ci.org/npmdoc/node-npmdoc-url-regex)
+
 #### Regular expression for matching URLs
 
 [![NPM](https://nodei.co/npm/url-regex.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/url-regex)
@@ -69,7 +72,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "4.0.0"
+    "version": "4.0.0",
+    "bin": {}
 }
 ```
 
